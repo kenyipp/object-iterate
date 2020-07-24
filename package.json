@@ -1,0 +1,27 @@
+{
+	"name": "object-iterate",
+	"version": "1.0.0",
+	"description": "Apply function on an object or array",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest index.spec.js"
+	},
+	"author": "ken.yip",
+	"license": "MIT",
+	"dependencies": {
+		"map-obj": "^4.1.0"
+	},
+	"devDependencies": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kenyipp/object-iterate.git"
+	},
+	"keywords": [
+		"object",
+		"iterate"
+	],
+	"bugs": {
+		"url": "https://github.com/kenyipp/object-iterate/issues"
+	},
+	"homepage": "https://github.com/kenyipp/object-iterate#readme"
+}
